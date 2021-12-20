@@ -1,0 +1,45 @@
+* {
+    background-color: #E7FAFF;  
+  }
+  
+  header {
+      padding-top: 5%;
+  }
+  
+  
+  h1 {
+      color: #7644D9;
+      padding-bottom: 3%;
+  }
+  
+  h2 {
+      color: #1DC7D3;
+      padding-bottom: 2%;
+  }
+  
+  h3 {
+      color: #ED4A9E;
+      padding-bottom: 1%;
+  }
+  
+  .btn {
+      background-color: #1DC7D3;
+      color: #E7FAFF;
+      border: 0;
+  }
+  
+  .btn.btn-danger:hover {
+  background-color: #1DC7D3;
+  color: #E7FAFF;
+      border: 0;
+  }
+  
+  a {
+      background-color: #1DC7D3;
+      color: #E7FAFF;
+      text-decoration: none;
+  }
+  
+  img {
+      height: 30%;
+  }
