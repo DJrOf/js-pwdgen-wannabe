@@ -13,11 +13,16 @@ background-color: #E7FAFF;
 }
 
 h2 {
-    color: #1DC7D3;
+    color: #ED4A9E;
     padding-bottom: 1%;
 }
 
 img {
   padding-top: 30%;
     height: 30%;
+}
+
+.col-4 {
+  text-align: center;
+  color: #1DC7D3;
 }
